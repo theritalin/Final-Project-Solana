@@ -33,15 +33,15 @@ Follow these steps to set up the project locally
 
 ### Prerequisites
 
-1. Front-end will be updated
+1. Frontend will be updated
 
 ### Installation
 
-1. Front-end will be updated
+1. Frontend will be updated
 
 ## Usage
 
-1. Front-end will be updated
+1. Frontend will be updated
 
 ## Smart Contracts
 
